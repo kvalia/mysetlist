@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+Songs {
+  display: table;
+  width: 100%;
+  
+  border-color: white;
+  border-collapse: collapse;
+}
+
+song {
+  
+  border-color: white;
+  font-size: 18px;
+  padding: 20px 30px;
+  background-color: #282828;
+  color: white;
+  font-family: "Arial";
+  display: table-row;
+  border-bottom: 1px solid #808080;
+  
+
+  
+}
+song:hover {
+  border: 1px solid #333; 
+  color: #fff; 
+  background-color: #808080}
+
+song title {
+  padding: 10px 20px;
+  display: table-cell;
+}
+
+song artist {
+  text-transform: uppercase;
+  display: table-cell;
+  padding-left: 100px;
+  
+}
+
+song genre {
+  padding-left: 50px;
+  display: table-cell;
+}
+
+song year {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #B8B8B8;
+  display: table-cell;
+}
+
+
+
+
+

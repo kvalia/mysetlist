@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "xmlStyleHw4.css" ?>
+<Songs>
+  <song>
+      <title>No Heart</title>
+      <artist>21 Savage</artist>
+      <genre>Hip-Hop</genre>
+      <year>2016</year>
+  </song>
+  <song>
+      <title>Dance Monkey</title>
+      <artist>Tones And I</artist>
+      <genre>Alternative / Indie</genre>
+      <year>2019</year>
+  </song>
+  <song>
+      <title>Mood Swings</title>
+      <artist>Pop Smoke</artist>
+      <genre>Hip-Hop</genre>
+      <year>2020</year>
+  </song>
+  <song>
+      <title>Replay</title>
+      <artist>Iyaz</artist>
+      <genre>Pop</genre>
+      <year>2009</year>
+  </song>
+  <song>
+      <title>Popstar</title>
+      <artist>Drake</artist>
+      <genre>Hip Hop</genre>
+      <year>2020</year>
+  </song>
+  <song>
+      <title>Heartless</title>
+      <artist>Kanye West</artist>
+      <genre>R&amp;B Trap</genre>
+      <year>2008</year>
+  </song>
+  <song>
+      <title>Blinding Lights</title>
+      <artist>The Weeknd</artist>
+      <genre>R&amp;B</genre>
+      <year>2019</year>
+  </song>
+
+  <song>
+      <title>Fireflies</title>
+      <artist>Owl City</artist>
+      <genre>Pop</genre>
+      <year>2009</year>
+  </song>
+  <song>
+      <title>Dynamite</title>
+      <artist>Taio Cruz</artist>
+      <genre>Pop</genre>
+      <year>2009</year>
+  </song>
+  <song>
+      <title>DJ Got us Fallin' In Love</title>
+      <artist>Usher</artist>
+      <genre>Pop</genre>
+      <year>2010</year>
+  </song>
+  <song>
+      <title>Just a Dream</title>
+      <artist>Nelly</artist>
+      <genre>Hip-Hop</genre>
+      <year>2010</year>
+  </song>
+  <song>
+      <title>Suge</title>
+      <artist>DaBaby</artist>
+      <genre>Hip-Hop</genre>
+      <year>2019</year>
+  </song>
+</Songs>
